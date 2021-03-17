@@ -7,3 +7,4 @@ Minizinc Projects and Data Files stored in a directory structure for clarity.
 
 Current Directories:
 1.labour_budget
+2.capital_and_risk_based_optimisation
