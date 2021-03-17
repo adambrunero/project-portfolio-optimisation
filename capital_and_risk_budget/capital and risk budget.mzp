@@ -1,0 +1,53 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "capital and risk budget.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "capital and risk budget.mzn",
+        "project portfolio data.dzn"
+    ],
+    "projectSolverConfigs": [
+        {
+            "additionalCompilerCommandline": "",
+            "additionalData": "",
+            "clearOutputWindow": false,
+            "compressSolutionOutput": 100,
+            "defaultBehavior": true,
+            "extraOptions": {
+                "-a-d": "2",
+                "-c-d": "8",
+                "-decay": "0.99",
+                "-fail": "0",
+                "-node": "0",
+                "-nogoods": "false",
+                "-nogoods-limit": "128",
+                "-restart": "none",
+                "-restart-base": "1.5",
+                "-restart-scale": "250"
+            },
+            "flatteningStats": false,
+            "freeSearch": false,
+            "id": "org.gecode.gecode",
+            "nThreads": 1,
+            "name": "Project solver configuration",
+            "optimizationLevel": 1,
+            "outputTiming": false,
+            "printIntermediate": false,
+            "runSolutionChecker": true,
+            "solverFlags": "",
+            "solvingStats": false,
+            "stopAfter": 1,
+            "timeLimit": 0,
+            "useExtraOptions": false,
+            "verboseFlattening": false,
+            "verboseSolving": false,
+            "version": "6.1.1"
+        }
+    ],
+    "selectedBuiltinConfigId": "org.chuffed.chuffed",
+    "selectedBuiltinConfigVersion": "0.10.4",
+    "version": 105
+}
